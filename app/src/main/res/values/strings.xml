@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Points Counter</string>
+    <string name="Team_A">Team A</string>
+    <string name="no._of_points">0</string>
+    <string name="add_3_points">+3 Points</string>
+    <string name="add_2_points">+2 Points</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="Team_B">Team B</string>
+    <string name="reset">Reset</string>
+
+
+</resources>
